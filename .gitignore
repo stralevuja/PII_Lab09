@@ -1,4 +1,10 @@
 **/cmake-build-debug/
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
 # Prerequisites
 *.d
 
